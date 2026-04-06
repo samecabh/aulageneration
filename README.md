@@ -1,2 +1,2 @@
 # aulageneration
-Aula onde aprendemos listas
+Aula onde aprendemos sobre listas.
