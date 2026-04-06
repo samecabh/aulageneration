@@ -1,2 +1,2 @@
 # aulageneration
-Aula onde aprendemos listas e variáveis
+Aula onde aprendemos listas
